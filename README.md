@@ -1,6 +1,6 @@
 ## 一款开源的MarkDown Editor，主要用于对GitHub Blog编辑和发布。
 
-![markdowngithub](C:\Users\Administrator\Desktop\GitHubBlogEditor\img\markdowngithub.jpg)
+![](https://raw.githubusercontent.com/Blue-Oranges/GitHubBlogEditor/master/img/markdowngithub.jpg)
 
 - [Flutter和Dart资料](https://github.com/Blue-Oranges/CnblogApp/blob/master/CnblogApp.md)
 - [GitHub API](https://developer.github.com/)
